@@ -31,7 +31,7 @@ Perfect for portfolio projects or as a front-end component in web apps.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/ascentSatya/task6.git
 ```
 
 2. Open `index.html` in a web browser.
